@@ -1,0 +1,5 @@
+20240625	13:33:42	9db3a889-9ea5-4699-b986-6110f3c556fb	ErrorNot allowed by CORS
+20240625	13:33:42	94285d25-f41b-48ee-87e3-7eb4162afc26	ErrorNot allowed by CORS
+20240625	14:12:50	37672bc1-67cb-44ce-88d9-5926893b236a	Error	ENOENT: no such file or directory, stat '/home/ishwa/Desktop/Node Practice/Dave Gray/07tut/view/subdir/index.html'
+20240625	17:03:40	d5edd8d7-5f21-45a9-973c-23b6d01fc1fc	ReferenceError	inventory is not defined
+20240625	20:25:36	3cbecf0a-890d-417d-ae57-463321c2814b	Error	Not allowed by CORS
